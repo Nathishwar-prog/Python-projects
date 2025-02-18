@@ -1,3 +1,4 @@
+# Author : Nathishwar
 import time as t
 class Bank:
     def __init__(self, Name: str, balance: int = 0):
