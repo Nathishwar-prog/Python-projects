@@ -1,4 +1,7 @@
+# Author : Nathishwar
+
 # Import Required Library
+
 from tkinter import *
 import random
 
