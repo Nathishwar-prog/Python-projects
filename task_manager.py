@@ -84,26 +84,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-  # or 
-# print(load_task())
-# add_task("Buy groceries")
-# add_task("Break fast")
-# add_task("Lunch")
-# add_task("Dinner")
-# mark_task(2,"done")
-# mark_task(3,"in progress")
-# update_task(1,"Buy a laptop")
-# delete_task(3)
-# # #
-# print(load_task())
-# update_task(2,"Build a Project")
-# delete_task(1)
-# delete_task(2)
-# delete_task(3)
-# delete_task(4)
-# delete_task(5)
-# mark_task(1,"done")
-# mark_task(2,"in progress")
+
 # mark_task(3,"done")
 # mark_task(4,"in progress")
 # list_task()
