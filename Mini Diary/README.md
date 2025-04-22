@@ -1,7 +1,3 @@
-Here’s a neat and clear `README.md` file for your diary app, Nathishwar:
-
----
-
 ```markdown
 # Personal Diary CLI App
 
